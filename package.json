@@ -1,0 +1,31 @@
+{
+  "name": "sso-magic-eight-ball",
+  "version": "1.0.0",
+  "description": "Section 10.B Helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukebakken/sso-magic-eight-ball.git"
+  },
+  "keywords": [
+    "section",
+    "10.B",
+    "spokane",
+    "symphony",
+    "magic",
+    "eight",
+    "ball"
+  ],
+  "author": "Luke Bakken",
+  "license": "UNLICENSE",
+  "bugs": {
+    "url": "https://github.com/lukebakken/sso-magic-eight-ball/issues"
+  },
+  "homepage": "https://github.com/lukebakken/sso-magic-eight-ball#readme",
+  "devDependencies": {
+    "mocha": "^5.0.1"
+  }
+}
